@@ -26,8 +26,8 @@
 
 ## 📁 Мои проекты
 
-| API My Shows Rating | API Битва покемонов | UI Битва покемонов |
-|---------------------|---------------------|-------------------|
+| My Shows Rating API | Pokemon Battle API | Pokemon Battle UI |
+|---------------------|-------------------|-------------------|
 | [my-shows-api-tests](https://github.com/danil-melnikov/my-shows-api-tests) | [pokemonbattle-api-tests](https://github.com/danil-melnikov/pokemonbattle-api-tests) | [pokemonbattle-e2e-tests-playwright](https://github.com/danil-melnikov/pokemonbattle-e2e-tests-playwright) |
 | Pytest, Requests, Docker | Pytest, Requests, GitLab CI | Playwright, GitLab CI |
 
