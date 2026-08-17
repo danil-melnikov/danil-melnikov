@@ -1,32 +1,30 @@
-# Всем привет, я Данил 👋
+# Привет! Меня зовут Данил 👋
 
-**QA Automation Engineer**
+### QA Automation Engineer
 
 - 🐍 Пишу автотесты на Python
-- 🚀 Работаю с CI/CD и Docker
-- 📊 Использую Allure Report для отчётности
+- 🔬 Тестирую API и UI
+- 🚀 Настраиваю CI/CD и работаю с Docker
+- 📊 Формирую отчёты в Allure Report
 
 ---
 
-## Python QA Auto
-
-### Мой стек:
+## 🛠️ Мой стек
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
----
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Allure](https://img.shields.io/badge/Allure-7B3FE4?style=for-the-badge&logo=allure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-### Мои проекты:
+## 📁 Мои проекты
 
 | API My Shows Rating | API Битва покемонов | UI Битва покемонов |
 |---------------------|---------------------|-------------------|
@@ -38,7 +36,8 @@
 ## 📚 Обучение
 
 **QA Studio** — Автоматизация тестирования на Python (2026)
-![Сертификат QA Studio](JUNV1Vhm5bdXEgR5_01LlxLZMJI1H6kocRjSTXNvkrTxdkwKIFaO1TbLqicQkmBL9roVtVNW653eRXVTE86_XiAN.png)
+
+<img src="JUNV1Vhm5bdXEgR5_01LlxLZMJI1H6kocRjSTXNvkrTxdkwKIFaO1TbLqicQkmBL9roVtVNW653eRXVTE86_XiAN.jpg" alt="Сертификат QA Studio" width="500">
 
 ---
 
