@@ -37,7 +37,7 @@
 
 **QA Studio** — Автоматизация тестирования на Python (2026)
 
-<img src="JUNV1Vhm5bdXEgR5_01LlxLZMJI1H6kocRjSTXNvkrTxdkwKIFaO1TbLqicQkmBL9roVtVNW653eRXVTE86_XiAN.jpg" alt="Сертификат QA Studio" width="500">
+![Сертификат QA Studio](certificate.jpg)
 
 ---
 
